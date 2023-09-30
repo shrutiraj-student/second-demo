@@ -1,6 +1,6 @@
 # second-demo
 this is for practice
-<h1>
+<p>
   hello every one
-</h1>
+<p>
 this is me authoe shruti raj
